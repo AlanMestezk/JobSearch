@@ -1,0 +1,25 @@
+{
+  "name": "appjobsearch",
+  "version": "1.0.0",
+  "description": "Este sistema é um portal para programadores encontrarem vagas de emprego",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dev jobs, dev oportunity, empregos dev"
+  },
+  "author": "Alan <alanmestezk98@gmail.com> (http://github.com/alanmestezk)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "sequelize": "^6.27.0",
+    "sqlite3": "^5.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
